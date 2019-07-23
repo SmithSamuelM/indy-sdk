@@ -15,3 +15,14 @@ Podfile.lock
 /wrappers/python/venv/
 .vscode
 _build/
+*.egg
+*.egg-info
+dist
+eggs
+.eggs
+sdist
+wheelhouse
+develop-eggs
+.installed.cfg
+venv*/
+pyvenv*/
