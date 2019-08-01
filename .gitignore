@@ -15,3 +15,5 @@ Podfile.lock
 /wrappers/python/venv/
 .vscode
 _build/
+*.egg-info/
+wrappers/python/python3_indy.egg-info/
